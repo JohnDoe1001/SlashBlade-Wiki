@@ -1,2 +1,2 @@
 test = "Hello Ưerл🚛!"
-alert(test);
+document.write(test);
