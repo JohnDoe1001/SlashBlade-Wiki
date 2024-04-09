@@ -1,2 +1,2 @@
-# MC-Mods-Wiki
-The unofficial wiki for every Minecraft mods in existence.
+# SlashBlade Unofficial Wiki
+The unofficial wiki for SlashBlade.
